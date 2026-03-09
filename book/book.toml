@@ -4,4 +4,4 @@ description = "Learn quantization by implementing it from scratch in Rust"
 authors = ["You"]
 
 [output.html]
-mathjax = true
+mathjax-support = true

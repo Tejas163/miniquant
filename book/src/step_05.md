@@ -28,6 +28,8 @@ Collect all values, sort them, then pick values at the specified percentile.
 
 Use `sorted[kth]` to get percentile values efficiently.
 
+</details>
+
 ## Template
 
 ```rust

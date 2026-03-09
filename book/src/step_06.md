@@ -28,6 +28,8 @@ Pre-quantize weights once during creation.
 
 Compute input scale dynamically for each forward pass.
 
+</details>
+
 ## Template
 
 ```rust

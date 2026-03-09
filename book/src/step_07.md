@@ -28,6 +28,8 @@ Store data as `Vec<i8>` with separate `shape`, `scale`, and `zero_point`.
 
 Use `serde` derive for serialization support.
 
+</details>
+
 ## Template
 
 ```rust

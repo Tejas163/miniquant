@@ -28,6 +28,8 @@ Iterate through layers, quantize weights, create quantized layer wrappers.
 
 Use the calibration data to determine activation scales.
 
+</details>
+
 ## Template
 
 ```rust
