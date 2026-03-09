@@ -1,0 +1,7 @@
+[book]
+title = "MiniQuant: Build a Quantization Library from Scratch"
+description = "Learn quantization by implementing it from scratch in Rust"
+authors = ["You"]
+
+[output.html]
+mathjax = true

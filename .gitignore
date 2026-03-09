@@ -1,0 +1,7 @@
+/target
+/Cargo.lock
+book/book
+*.swp
+*.swo
+*~
+.DS_Store
